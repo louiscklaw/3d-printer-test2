@@ -1,0 +1,9 @@
+[submodule "first_layer_test"]
+	path = first_layer_test
+	url = git@github.com:louiscklaw/first_layer_test.git
+[submodule "_ref_design/VORON"]
+	path = _ref_design/VORON
+	url = git@github.com:mzbotreprap/VORON.git
+[submodule "_ref_design/VORON_V2.1/_ref/klipper"]
+	path = _ref_design/VORON_V2.1/_ref/klipper
+	url = git@github.com:KevinOConnor/klipper.git
