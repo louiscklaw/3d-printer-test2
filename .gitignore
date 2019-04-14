@@ -1,1 +1,3 @@
-.stp
+*.stp
+CAD/voron_parts_cad
+CAD/components
